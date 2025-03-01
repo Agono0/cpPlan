@@ -38,7 +38,7 @@ Today, we’ll explore **core C++ concepts** that are fundamental to the languag
       - **Article**: [Lambda Expressions](https://harmash.com/tutorials/cplusplus/lambda-expressions)
 
         
-4. **Pointers**:  
+3. **Pointers**:  
    - Understand the concept of pointers and their usage.  
    - Learn about pointer declaration, dereferencing, and pointer arithmetic.  
    - **Reference**:  
@@ -78,6 +78,68 @@ Let’s start with a simple Data Structure topic in C++. Here’s what to focus 
     - **Arabic Reference**:
       - **Video**: [Array as a Data Structure - Part 1](https://www.youtube.com/watch?v=pASx8xQtIYY) & [Array as a Data Structure - Part 2](https://www.youtube.com/watch?v=TU2S9P5CRUE) (recommended)
       - **Article**: [academy.hsoub: Arrays explain](https://academy.hsoub.com/programming/cpp/%D8%A7%D9%84%D9%85%D8%B5%D9%81%D9%88%D9%81%D8%A7%D8%AA-%D9%81%D9%8A-cpp-r891/)
+     - **Exercise To Do**:  
+         - **Websites**:
+            - ([leetcode : Merge Two Sorted Lists(easy)](https://leetcode.com/problems/merge-two-sorted-lists/description/))
+            - ([leetcode : Reverse Linked List(easy)](https://leetcode.com/problems/reverse-linked-list/description))
+            - ([leetcode : Linked List Cycle(easy)](https://leetcode.com/problems/linked-list-cycle/description))
+            - ([leetcode : Palindrome Linked List (easy)](https://leetcode.com/problems/palindrome-linked-list/description))
+            - ([leetcode : Middle of the Linked List(easy)](https://leetcode.com/problems/middle-of-the-linked-list/description/))
+            - ([leetcode : Remove Duplicates from Sorted List(easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description))
+              
+            **you can find more problems on Array [here](https://leetcode.com/problem-list/linked-list/), but this is not recommended for now.**
+           
+
+</details>
+
+<details>
+<summary>🚀 Day 2 Plan: Diving into C++ 🚀</summary>
+
+Welcome to **Day 2** of your C++ learning , goals:
+
+
+## 📚 **Goal 1: Learn Something New About C++**
+Here’s what to focus on:
+
+1. **Memory model(management)**:  
+   - Learn about memory segments like stack, heap, and static memory, and how variables are stored and managed in each.  
+   - Study how new and delete operators work to allocate and deallocate memory on the heap.
+   - **Reference**:  
+     - **Videos**: memory model : [intro : C++ Memory Model](https://www.youtube.com/watch?v=KgzjxfYaScU) , [Stack vs Heap Memory in C++](https://www.youtube.com/watch?v=wJ1L2nSIV1s) , [Dynamic Memory Allocation in C++](https://www.youtube.com/watch?v=27QLVnn74Eg) , [Smart Pointers in C++](https://www.youtube.com/watch?v=UOB7-B2MfwA) , [RAII in C++](https://www.youtube.com/watch?v=q6dVKMgeEkk).
+     - **Article**: null
+    - **Arabic Reference**:
+      - **Videos**: [Stack vs Heap Memory in C++ & Dynamic Memory Allocation in C++ (Part1)](https://www.youtube.com/watch?v=OlY_Fwfyk6s) , [Dynamic Memory Allocation in C++ (Part2)](https://www.youtube.com/watch?v=XxniWLQEMMo) , [Smart Pointers](https://www.youtube.com/watch?v=tRl6NxjefoQ) , [RAII in C++](https://www.youtube.com/watch?v=xERMdnEVbZQ).
+
+2. **Codebase structuring**:  
+   - Organize Code into Logical Modules: Separate code into directories and files based on functionality (e.g., src/, include/, tests/) and use namespaces to avoid conflicts.  
+   - **Reference**:  
+     - **Video**: [Properly Setup C++ Projects](https://www.youtube.com/watch?v=5glH8dGoeCA)
+    - **Arabic Reference**:
+      - **Video**: null
+
+
+---
+
+## 🛠️ **Goal 2: Implement What You’ve Learned**
+Let’s apply the new concepts in practical ways. Here’s what to do:
+
+1. **Experiment with Memory Model**:  
+   - Memory Layout.  
+      - **Exercise To Do**:  
+         - **Websites**:  ([geeksforgeeks : Dynamic Memory Allocation](https://www.geeksforgeeks.org/quizzes/dynamic-memory-allocation-gq/)) & ([geeksforgeeks : Memory Management](https://www.geeksforgeeks.org/quizzes/quiz-on-cpp-memory-management/)) & ([geeksforgeeks : C++ new and delete](https://www.geeksforgeeks.org/quizzes/new-and-delete-gq/))
+
+---
+
+## � **Goal 3: Learn and Solve Problems in Data Structures**
+Let’s start with a simple Data Structure topic in C++. Here’s what to focus on:
+
+1. **Learn About Linked List**:  
+   - Learn how linked lists store data in nodes, with each node containing data and a pointer to the next node.  
+   - Practice implementing common operations like insertion, deletion, traversal, and searching in a linked list.
+   - **Reference**:  
+     - **Video**: [Linked List](https://www.youtube.com/watch?v=o5wJkJJpKtM)  
+    - **Arabic Reference**:
+      - **Video**: [linked list playlist[Arabic]](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTeekVrjC0Nq3xGq1pXi6cQO) (recommended)
      - **Exercise To Do**:  
          - **Websites**:
             - ([leetcode : Two Sum problem(easy)](https://leetcode.com/problems/two-sum/description/))
